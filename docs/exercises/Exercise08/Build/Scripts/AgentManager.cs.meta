@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfc2fc986d18f824bbadae99201f138e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - human: {instanceID: 0}
+  - zombie: {instanceID: 0}
+  - floor: {fileID: 7203913942846715893, guid: 3d2e9f1309be87244918c346b0ba64b1, type: 3}
+  - treasure: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
